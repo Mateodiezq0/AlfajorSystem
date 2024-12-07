@@ -15,7 +15,7 @@ import Altamenu from './pages/ABM/altamenu';
 import AltaConfirmada from './pages/ABM/altaconfirmada';
 import MenuGerente from './pages/ABM/menuGerente';
 import ModificarMenu from './pages/ABM/modificarmenu';
-import MenuATT from './pages/Turnos/menuATT';
+import MenuATT from './pages/Turnos/MenuATT';
 import MenuMecanico from './pages/RTO/menuMecanico';
 import VehicleControl from './pages/RTO/VehicleControl';
 
