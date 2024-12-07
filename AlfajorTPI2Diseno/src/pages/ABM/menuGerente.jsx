@@ -1,5 +1,5 @@
 import React from 'react';
-import './MenuGerente.css';
+import './menuGerente.css';
 import { useNavigate } from 'react-router-dom';
 import Logo from "../../../public/logo.png";
 
